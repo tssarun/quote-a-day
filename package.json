@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/senthilkanna/quote-a-day.git"
+    "url": "git+https://github.com/tssarun/quote-a-day.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/senthilkanna/quote-a-day/issues"
+    "url": "https://github.com/tssarun/quote-a-day/issues"
   },
-  "homepage": "https://github.com/senthilkanna/quote-a-day#readme",
+  "homepage": "https://github.com/tssarun/quote-a-day#readme",
   "dependencies": {
     "express": "^4.15.2"
   }
