@@ -1,21 +1,14 @@
 {
   "name": "quote-a-day",
   "version": "1.0.0",
-  "description": "",
+  "description": "Display Quotes",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tssarun/quote-a-day.git"
-  },
-  "author": "",
+  "author": "arunkumar",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tssarun/quote-a-day/issues"
-  },
-  "homepage": "https://github.com/tssarun/quote-a-day#readme",
   "dependencies": {
     "express": "^4.15.2"
   }
